@@ -1,0 +1,389 @@
+Age;Gender;Marital Status;Occupation;Monthly Income;Educational Qualifications;Family size;latitude;longitude;Pin code;Output;Feedback;Стовпець1;;;;;;;;;;;;;latitude
+20;Female;Single;Student;No Income;Post Graduate;4;01.12.9766;77.5993;560001;Yes;Positive;Yes;;Marital Status;COUNT;;;;Gender;COUNT;;;;;01.12.9766
+24;Female;Single;Student;Below Rs.10000;Graduate;3;02.12.9766;77.5773;560009;Yes;Positive;Yes;;Single;268;;;;Female;166;;;;;02.12.9766
+22;Male;Single;Student;Below Rs.10000;Post Graduate;3;03.12.9766;77.6593;560017;Yes;Negative ;Yes;;Married;108;;;;Male;222;;;;;03.12.9766
+22;Female;Single;Student;No Income;Graduate;6;04.12.9766;77.5616;560019;Yes;Positive;Yes;;Prefer not to say;12;;;;;;;;;;04.12.9766
+22;Male;Single;Student;Below Rs.10000;Post Graduate;4;05.12.9766;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;05.12.9766
+27;Female;Married;Employee;More than 50000;Post Graduate;2;06.12.9766;77.6848;560103;Yes;Positive;Yes;;;;;;;;;;;;;06.12.9766
+22;Male;Single;Student;No Income;Graduate;3;07.12.9766;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;07.12.9766
+24;Female;Single;Student;No Income;Post Graduate;3;08.12.9766;77.6131;560042;Yes;Positive;Yes;;;;;;;;;;;;;08.12.9766
+23;Female;Single;Student;No Income;Post Graduate;2;09.12.9766;77.5993;560001;Yes;Positive;Yes;;;;;;;;;;;;;09.12.9766
+23;Female;Single;Student;No Income;Post Graduate;4;10.12.9766;77.7081;560048;Yes;Positive;Yes;;;;;;;;;;;;;10.12.9766
+22;Female;Single;Student;No Income;Post Graduate;5;11.12.9766;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;11.12.9766
+23;Male;Single;Student;Below Rs.10000;Post Graduate;2;12.12.9766;77.5773;560009;Yes;Negative ;Yes;;;;;;;;;;;;;12.12.9766
+23;Male;Single;Student;No Income;Post Graduate;5;13.12.9766;77.5764;560078;Yes;Positive;Yes;;;;;;;;;;;;;13.12.9766
+21;Male;Single;Student;No Income;Graduate;4;14.12.9766;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;14.12.9766
+23;Female;Single;Self Employeed;10001 to 25000;Post Graduate;5;15.12.9766;77.5738;560004;Yes;Positive;Yes;;;;;;;;;;;;;15.12.9766
+24;Female;Single;Student;No Income;Post Graduate;6;16.12.9766;77.6399;560068;Yes;Positive;Yes;;;;;;;;;;;;;16.12.9766
+28;Female;Single;Employee;25001 to 50000;Post Graduate;2;17.12.9766;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;17.12.9766
+23;Female;Single;Student;No Income;Graduate;3;18.12.9766;77.6256;560008;Yes;Negative ;Yes;;;;;;;;;;;;;18.12.9766
+25;Male;Single;Student;No Income;Graduate;4;19.12.9766;77.5764;560078;Yes;Negative ;Yes;;;;;;;;;;;;;19.12.9766
+21;Female;Single;Student;Below Rs.10000;Post Graduate;1;20.12.9766;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;20.12.9766
+24;Male;Single;Student;No Income;Post Graduate;3;21.12.9766;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;21.12.9766
+22;Male;Single;Student;No Income;Post Graduate;4;22.12.9766;77.6047;560032;Yes;Positive;Yes;;;;;;;;;;;;;22.12.9766
+22;Female;Single;Student;No Income;Graduate;4;23.12.9766;77.6409;560033;Yes;Positive;Yes;;;;;;;;;;;;;23.12.9766
+23;Male;Single;Student;No Income;Graduate;4;24.12.9766;77.5633;560021;Yes;Positive;Yes;;;;;;;;;;;;;24.12.9766
+21;Male;Single;Student;Below Rs.10000;Post Graduate;3;25.12.9766;77.5434;560085;Yes;Positive;Yes;;;;;;;;;;;;;25.12.9766
+25;Male;Single;Student;No Income;Post Graduate;3;26.12.9766;77.6256;560008;Yes;Positive;Yes;;;;;;;;;;;;;26.12.9766
+22;Female;Single;Student;No Income;Post Graduate;5;27.12.9766;77.5585;560050;Yes;Positive;Yes;;;;;;;;;;;;;27.12.9766
+22;Male;Single;Student;No Income;Post Graduate;3;28.12.9766;77.5135;560098;Yes;Positive;Yes;;;;;;;;;;;;;28.12.9766
+23;Female;Single;Employee;10001 to 25000;Graduate;3;29.12.9766;77.7081;560048;Yes;Positive;Yes;;;;;;;;;;;;;29.12.9766
+22;Male;Single;Student;Below Rs.10000;Post Graduate;4;30.12.9766;77.5713;560003;Yes;Positive;Yes;;;;;;;;;;;;;30.12.9766
+22;Female;Single;Employee;10001 to 25000;Graduate;5;31.12.9766;77.75;560066;Yes;Positive;Yes;;;;;;;;;;;;;31.12.9766
+22;Male;Single;Student;No Income;Post Graduate;4;01.01.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;01.01.9767
+25;Male;Married;Employee;More than 50000;Ph.D;4;02.01.9767;77.6221;560034;Yes;Positive;Yes;;;;;;;;;;;;;02.01.9767
+22;Female;Single;Student;10001 to 25000;Post Graduate;5;03.01.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;03.01.9767
+22;Female;Single;Student;No Income;Post Graduate;2;04.01.9767;77.6446;560102;Yes;Positive;Yes;;;;;;;;;;;;;04.01.9767
+25;Male;Single;Student;10001 to 25000;Post Graduate;3;05.01.9767;77.5434;560085;Yes;Positive;Yes;;;;;;;;;;;;;05.01.9767
+25;Male;Single;Student;No Income;Post Graduate;5;06.01.9767;77.5773;560009;No;Positive;No;;;;;;;;;;;;;06.01.9767
+32;Female;Prefer not to say;House wife;No Income;Graduate;5;07.01.9767;77.6256;560008;Yes;Negative ;Yes;;;;;;;;;;;;;07.01.9767
+23;Female;Single;Student;No Income;Post Graduate;3;08.01.9767;77.5738;560004;Yes;Positive;Yes;;;;;;;;;;;;;08.01.9767
+23;Female;Single;Student;No Income;Post Graduate;4;09.01.9767;77.5764;560078;Yes;Positive;Yes;;;;;;;;;;;;;09.01.9767
+30;Male;Married;Self Employeed;More than 50000;Uneducated;4;10.01.9767;77.6068;560025;Yes;Negative ;Yes;;;;;;;;;;;;;10.01.9767
+23;Male;Single;Student;No Income;Graduate;3;11.01.9767;77.5484;560026;Yes;Positive;Yes;;;;;;;;;;;;;11.01.9767
+23;Male;Single;Student;No Income;Post Graduate;4;12.01.9767;77.5633;560021;Yes;Positive;Yes;;;;;;;;;;;;;12.01.9767
+22;Female;Single;Student;No Income;Post Graduate;5;13.01.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;13.01.9767
+22;Male;Single;Student;No Income;Graduate;5;14.01.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;14.01.9767
+27;Female;Married;Self Employeed;10001 to 25000;Post Graduate;2;15.01.9767;77.6221;560034;Yes;Positive;Yes;;;;;;;;;;;;;15.01.9767
+24;Female;Single;Student;No Income;Post Graduate;3;16.01.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;16.01.9767
+23;Male;Single;Student;No Income;Post Graduate;2;17.01.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;17.01.9767
+23;Female;Single;Student;No Income;Graduate;3;18.01.9767;77.6256;560008;Yes;Negative ;Yes;;;;;;;;;;;;;18.01.9767
+22;Female;Single;Student;10001 to 25000;Post Graduate;5;19.01.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;19.01.9767
+23;Female;Single;Student;No Income;Graduate;5;20.01.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;20.01.9767
+23;Female;Single;Student;No Income;Post Graduate;2;21.01.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;21.01.9767
+24;Male;Single;Student;No Income;Post Graduate;3;22.01.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;22.01.9767
+25;Male;Single;Student;No Income;Post Graduate;2;23.01.9767;77.5821;560002;Yes;Positive;Yes;;;;;;;;;;;;;23.01.9767
+22;Male;Single;Student;No Income;Post Graduate;3;24.01.9767;77.5434;560085;Yes;Positive;Yes;;;;;;;;;;;;;24.01.9767
+28;Female;Married;Student;No Income;Graduate;2;25.01.9767;77.545;560086;Yes;Positive;Yes;;;;;;;;;;;;;25.01.9767
+22;Female;Single;Student;No Income;Post Graduate;1;26.01.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;26.01.9767
+24;Female;Single;Student;No Income;Graduate;3;27.01.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;27.01.9767
+31;Male;Married;Employee;More than 50000;Ph.D;5;28.01.9767;77.6446;560102;Yes;Positive;Yes;;;;;;;;;;;;;28.01.9767
+25;Male;Single;Student;No Income;Post Graduate;4;29.01.9767;77.545;560086;Yes;Positive;Yes;;;;;;;;;;;;;29.01.9767
+23;Male;Single;Student;No Income;Post Graduate;5;30.01.9767;77.5764;560078;Yes;Positive;Yes;;;;;;;;;;;;;30.01.9767
+22;Male;Single;Student;No Income;Post Graduate;3;31.01.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;31.01.9767
+23;Male;Single;Student;25001 to 50000;Post Graduate;1;01.02.9767;77.539;560096;Yes;Positive;Yes;;;;;;;;;;;;;01.02.9767
+23;Male;Single;Student;No Income;Graduate;4;02.02.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;02.02.9767
+23;Female;Single;Student;No Income;Post Graduate;2;03.02.9767;77.5713;560003;Yes;Positive;Yes;;;;;;;;;;;;;03.02.9767
+25;Male;Single;Student;No Income;Post Graduate;6;04.02.9767;77.5995;560046;Yes;Positive;Yes;;;;;;;;;;;;;04.02.9767
+24;Male;Single;Employee;10001 to 25000;Graduate;4;05.02.9767;77.6076;560030;Yes;Positive;Yes;;;;;;;;;;;;;05.02.9767
+23;Female;Single;Student;No Income;Post Graduate;4;06.02.9767;77.5923;560024;Yes;Positive;Yes;;;;;;;;;;;;;06.02.9767
+23;Female;Single;Student;No Income;Post Graduate;4;07.02.9767;77.5923;560024;Yes;Positive;Yes;;;;;;;;;;;;;07.02.9767
+24;Female;Married;Employee;More than 50000;Ph.D;4;08.02.9767;77.5738;560004;Yes;Positive;Yes;;;;;;;;;;;;;08.02.9767
+22;Male;Single;Student;No Income;Graduate;4;09.02.9767;77.5741;560020;Yes;Positive;Yes;;;;;;;;;;;;;09.02.9767
+24;Female;Single;Student;10001 to 25000;Post Graduate;3;10.02.9767;77.5691;560028;No;Positive;No;;;;;;;;;;;;;10.02.9767
+25;Female;Single;Student;No Income;Post Graduate;3;11.02.9767;77.5993;560001;Yes;Positive;Yes;;;;;;;;;;;;;11.02.9767
+23;Male;Single;Student;No Income;Post Graduate;2;12.02.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;12.02.9767
+26;Male;Single;Student;No Income;Post Graduate;4;13.02.9767;77.5713;560003;Yes;Positive;Yes;;;;;;;;;;;;;13.02.9767
+24;Female;Single;Student;25001 to 50000;Post Graduate;3;14.02.9767;77.5864;560064;Yes;Positive;Yes;;;;;;;;;;;;;14.02.9767
+26;Male;Single;Student;No Income;Post Graduate;4;15.02.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;15.02.9767
+21;Male;Single;Student;No Income;Graduate;4;16.02.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;16.02.9767
+22;Female;Single;Student;No Income;Post Graduate;3;17.02.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;17.02.9767
+24;Male;Single;Student;No Income;Post Graduate;5;18.02.9767;77.59;560011;Yes;Positive;Yes;;;;;;;;;;;;;18.02.9767
+24;Male;Single;Student;10001 to 25000;Post Graduate;4;19.02.9767;77.5376;560061;Yes;Positive;Yes;;;;;;;;;;;;;19.02.9767
+23;Female;Single;Student;No Income;Post Graduate;3;20.02.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;20.02.9767
+23;Male;Single;Student;No Income;Post Graduate;3;21.02.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;21.02.9767
+22;Male;Single;Student;No Income;Post Graduate;3;22.02.9767;77.5738;560004;Yes;Positive;Yes;;;;;;;;;;;;;22.02.9767
+23;Male;Single;Student;No Income;Post Graduate;3;23.02.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;23.02.9767
+24;Female;Single;Student;No Income;Post Graduate;4;24.02.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;24.02.9767
+24;Male;Single;Student;No Income;Post Graduate;5;25.02.9767;77.59;560011;Yes;Positive;Yes;;;;;;;;;;;;;25.02.9767
+25;Male;Single;Student;No Income;Graduate;1;26.02.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;26.02.9767
+25;Male;Single;Student;No Income;Post Graduate;5;27.02.9767;77.5773;560009;No;Positive;No;;;;;;;;;;;;;27.02.9767
+28;Male;Married;Self Employeed;10001 to 25000;Graduate;2;28.02.9767;77.54;560022;No;Negative ;No;;;;;;;;;;;;;28.02.9767
+27;Female;Prefer not to say;Employee;25001 to 50000;Post Graduate;5;01.03.9767;77.54;560022;No;Positive;No;;;;;;;;;;;;;01.03.9767
+26;Male;Single;Self Employeed;10001 to 25000;Ph.D;1;02.03.9767;77.75;560066;No;Positive;No;;;;;;;;;;;;;02.03.9767
+22;Male;Single;Student;No Income;Post Graduate;2;03.03.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;03.03.9767
+24;Female;Single;Student;No Income;Post Graduate;3;04.03.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;04.03.9767
+23;Male;Single;Student;No Income;Post Graduate;1;05.03.9767;77.5921;560027;Yes;Positive;Yes;;;;;;;;;;;;;05.03.9767
+25;Male;Single;Student;No Income;Graduate;1;06.03.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;06.03.9767
+23;Female;Single;Student;No Income;Graduate;5;07.03.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;07.03.9767
+23;Female;Single;Student;No Income;Graduate;5;08.03.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;08.03.9767
+26;Male;Married;Employee;25001 to 50000;Graduate;5;09.03.9767;77.6309;560007;No;Positive;No;;;;;;;;;;;;;09.03.9767
+32;Female;Married;House wife;No Income;Uneducated;3;10.03.9767;77.5658;560012;No;Positive;No;;;;;;;;;;;;;10.03.9767
+24;Female;Single;Student;10001 to 25000;Post Graduate;3;11.03.9767;77.5691;560028;No;Positive;No;;;;;;;;;;;;;11.03.9767
+23;Male;Single;Student;No Income;Post Graduate;2;12.03.9767;77.6076;560030;Yes;Positive;Yes;;;;;;;;;;;;;12.03.9767
+22;Female;Single;Employee;10001 to 25000;Graduate;3;13.03.9767;77.75;560066;Yes;Positive;Yes;;;;;;;;;;;;;13.03.9767
+24;Female;Single;Student;No Income;Ph.D;3;14.03.9767;77.5738;560004;Yes;Positive;Yes;;;;;;;;;;;;;14.03.9767
+26;Male;Single;Employee;25001 to 50000;Graduate;2;15.03.9767;77.6221;560034;Yes;Negative ;Yes;;;;;;;;;;;;;15.03.9767
+28;Male;Married;Employee;More than 50000;Graduate;3;16.03.9767;77.75;560066;No;Positive;No;;;;;;;;;;;;;16.03.9767
+26;Male;Single;Employee;More than 50000;Post Graduate;2;17.03.9767;77.75;560066;No;Positive;No;;;;;;;;;;;;;17.03.9767
+25;Male;Single;Student;No Income;Post Graduate;1;18.03.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;18.03.9767
+25;Male;Single;Employee;Below Rs.10000;Graduate;2;19.03.9767;77.75;560066;No;Positive;No;;;;;;;;;;;;;19.03.9767
+18;Male;Single;Student;No Income;Graduate;5;20.03.9767;77.5821;560002;Yes;Positive;Yes;;;;;;;;;;;;;20.03.9767
+21;Male;Single;Student;No Income;Post Graduate;4;21.03.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;21.03.9767
+25;Male;Single;Student;No Income;Post Graduate;1;22.03.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;22.03.9767
+25;Male;Single;Student;Below Rs.10000;Post Graduate;2;23.03.9767;77.5633;560021;Yes;Positive;Yes;;;;;;;;;;;;;23.03.9767
+23;Female;Single;Student;No Income;Graduate;5;24.03.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;24.03.9767
+23;Male;Single;Employee;10001 to 25000;Post Graduate;2;25.03.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;25.03.9767
+25;Female;Married;Employee;25001 to 50000;Graduate;4;26.03.9767;77.6593;560017;No;Negative ;No;;;;;;;;;;;;;26.03.9767
+31;Female;Married;House wife;No Income;School;5;27.03.9767;77.54;560022;Yes;Positive;Yes;;;;;;;;;;;;;27.03.9767
+24;Male;Prefer not to say;Self Employeed;More than 50000;Ph.D;2;28.03.9767;77.5877;560006;No;Positive;No;;;;;;;;;;;;;28.03.9767
+32;Female;Married;Employee;25001 to 50000;Graduate;5;29.03.9767;77.6221;560034;Yes;Positive;Yes;;;;;;;;;;;;;29.03.9767
+25;Male;Single;Employee;25001 to 50000;Graduate;3;30.03.9767;77.5993;560001;Yes;Positive;Yes;;;;;;;;;;;;;30.03.9767
+27;Female;Married;Self Employeed;More than 50000;Graduate;5;31.03.9767;77.5993;560001;No;Positive;No;;;;;;;;;;;;;31.03.9767
+26;Male;Single;Self Employeed;25001 to 50000;Graduate;3;01.04.9767;77.5993;560001;Yes;Positive;Yes;;;;;;;;;;;;;01.04.9767
+26;Female;Single;Self Employeed;25001 to 50000;Post Graduate;3;02.04.9767;77.5821;560002;Yes;Positive;Yes;;;;;;;;;;;;;02.04.9767
+32;Male;Married;Employee;More than 50000;Ph.D;5;03.04.9767;77.5821;560002;Yes;Negative ;Yes;;;;;;;;;;;;;03.04.9767
+24;Male;Married;Self Employeed;More than 50000;Ph.D;6;04.04.9767;77.5821;560002;No;Negative ;No;;;;;;;;;;;;;04.04.9767
+27;Female;Married;Self Employeed;25001 to 50000;Graduate;3;05.04.9767;77.5821;560002;Yes;Positive;Yes;;;;;;;;;;;;;05.04.9767
+23;Male;Single;Student;No Income;Post Graduate;3;06.04.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;06.04.9767
+25;Male;Single;Student;No Income;Post Graduate;4;07.04.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;07.04.9767
+23;Male;Single;Student;No Income;Post Graduate;3;08.04.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;08.04.9767
+23;Female;Single;Student;No Income;Post Graduate;4;09.04.9767;77.5923;560024;Yes;Positive;Yes;;;;;;;;;;;;;09.04.9767
+28;Male;Married;Employee;More than 50000;Post Graduate;3;10.04.9767;77.5713;560003;Yes;Positive;Yes;;;;;;;;;;;;;10.04.9767
+32;Female;Married;Employee;More than 50000;Graduate;1;11.04.9767;77.5713;560003;No;Positive;No;;;;;;;;;;;;;11.04.9767
+23;Male;Single;Student;No Income;Post Graduate;2;12.04.9767;77.5713;560003;Yes;Positive;Yes;;;;;;;;;;;;;12.04.9767
+19;Male;Single;Student;No Income;Graduate;2;13.04.9767;77.5713;560003;No;Negative ;No;;;;;;;;;;;;;13.04.9767
+19;Female;Single;Student;No Income;Graduate;4;14.04.9767;77.6176;560047;Yes;Positive;Yes;;;;;;;;;;;;;14.04.9767
+27;Female;Married;Employee;25001 to 50000;Post Graduate;2;15.04.9767;77.75;560066;No;Positive;No;;;;;;;;;;;;;15.04.9767
+25;Male;Single;Self Employeed;25001 to 50000;Graduate;3;16.04.9767;77.6227;560005;Yes;Positive;Yes;;;;;;;;;;;;;16.04.9767
+33;Male;Married;Employee;More than 50000;Ph.D;5;17.04.9767;77.6227;560005;No;Negative ;No;;;;;;;;;;;;;17.04.9767
+26;Female;Single;Employee;More than 50000;Graduate;3;18.04.9767;77.6227;560005;Yes;Positive;Yes;;;;;;;;;;;;;18.04.9767
+22;Female;Single;Student;Below Rs.10000;Post Graduate;4;19.04.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;19.04.9767
+23;Male;Single;Student;No Income;Post Graduate;3;20.04.9767;77.5864;560064;No;Positive;No;;;;;;;;;;;;;20.04.9767
+22;Female;Single;Student;No Income;Graduate;3;21.04.9767;77.539;560096;Yes;Negative ;Yes;;;;;;;;;;;;;21.04.9767
+25;Male;Married;Employee;25001 to 50000;Graduate;2;22.04.9767;77.6227;560005;Yes;Positive;Yes;;;;;;;;;;;;;22.04.9767
+30;Female;Married;House wife;No Income;School;5;23.04.9767;77.6227;560005;Yes;Positive;Yes;;;;;;;;;;;;;23.04.9767
+24;Male;Single;Student;No Income;Post Graduate;3;24.04.9767;77.5877;560006;No;Negative ;No;;;;;;;;;;;;;24.04.9767
+25;Male;Single;Employee;10001 to 25000;Post Graduate;3;25.04.9767;77.5877;560006;Yes;Positive;Yes;;;;;;;;;;;;;25.04.9767
+23;Male;Single;Student;More than 50000;Post Graduate;3;26.04.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;26.04.9767
+24;Female;Single;Student;No Income;Post Graduate;4;27.04.9767;77.4941;560073;Yes;Positive;Yes;;;;;;;;;;;;;27.04.9767
+32;Male;Married;Employee;10001 to 25000;Graduate;4;28.04.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;28.04.9767
+22;Male;Single;Student;No Income;Post Graduate;4;29.04.9767;77.5741;560020;Yes;Positive;Yes;;;;;;;;;;;;;29.04.9767
+23;Male;Single;Student;More than 50000;Post Graduate;3;30.04.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;30.04.9767
+23;Female;Single;Student;No Income;Post Graduate;4;01.05.9767;77.5923;560024;Yes;Positive;Yes;;;;;;;;;;;;;01.05.9767
+20;Male;Single;Student;No Income;Graduate;2;02.05.9767;77.6309;560007;Yes;Positive;Yes;;;;;;;;;;;;;02.05.9767
+21;Male;Single;Student;No Income;Graduate;2;03.05.9767;77.6309;560007;Yes;Positive;Yes;;;;;;;;;;;;;03.05.9767
+24;Female;Married;Self Employeed;10001 to 25000;Graduate;5;04.05.9767;77.6309;560007;Yes;Positive;Yes;;;;;;;;;;;;;04.05.9767
+23;Female;Single;Student;No Income;Post Graduate;4;05.05.9767;77.5923;560024;Yes;Positive;Yes;;;;;;;;;;;;;05.05.9767
+25;Male;Single;Employee;25001 to 50000;Post Graduate;3;06.05.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;06.05.9767
+32;Female;Married;House wife;No Income;Graduate;3;07.05.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;07.05.9767
+27;Male;Married;Employee;More than 50000;Ph.D;5;08.05.9767;77.5533;560010;No;Negative ;No;;;;;;;;;;;;;08.05.9767
+20;Female;Single;Student;No Income;Graduate;2;09.05.9767;77.59;560011;Yes;Positive;Yes;;;;;;;;;;;;;09.05.9767
+21;Male;Single;Student;No Income;Graduate;2;10.05.9767;77.59;560011;Yes;Positive;Yes;;;;;;;;;;;;;10.05.9767
+26;Male;Single;Employee;More than 50000;Post Graduate;3;11.05.9767;77.59;560011;No;Negative ;No;;;;;;;;;;;;;11.05.9767
+25;Male;Single;Employee;10001 to 25000;Graduate;4;12.05.9767;77.6804;560016;Yes;Positive;Yes;;;;;;;;;;;;;12.05.9767
+26;Male;Single;Employee;25001 to 50000;Post Graduate;3;13.05.9767;77.5658;560012;Yes;Positive;Yes;;;;;;;;;;;;;13.05.9767
+26;Female;Married;Employee;25001 to 50000;Graduate;3;14.05.9767;77.5658;560012;Yes;Positive;Yes;;;;;;;;;;;;;14.05.9767
+27;Male;Single;Employee;More than 50000;Ph.D;4;15.05.9767;77.5529;560013;No;Positive;No;;;;;;;;;;;;;15.05.9767
+27;Female;Single;Student;No Income;Ph.D;5;16.05.9767;77.5529;560013;No;Negative ;No;;;;;;;;;;;;;16.05.9767
+24;Female;Single;Student;No Income;Post Graduate;5;17.05.9767;77.5987;560051;Yes;Positive;Yes;;;;;;;;;;;;;17.05.9767
+25;Male;Married;Self Employeed;More than 50000;School;2;18.05.9767;77.5284;560015;Yes;Positive;Yes;;;;;;;;;;;;;18.05.9767
+20;Male;Single;Student;No Income;Graduate;2;19.05.9767;77.5284;560015;No;Negative ;No;;;;;;;;;;;;;19.05.9767
+22;Male;Single;Student;No Income;Post Graduate;1;20.05.9767;77.5284;560015;Yes;Positive;Yes;;;;;;;;;;;;;20.05.9767
+26;Female;Married;Student;Below Rs.10000;Ph.D;3;21.05.9767;77.6804;560016;Yes;Positive;Yes;;;;;;;;;;;;;21.05.9767
+27;Male;Prefer not to say;Employee;25001 to 50000;Post Graduate;1;22.05.9767;77.6804;560016;Yes;Positive;Yes;;;;;;;;;;;;;22.05.9767
+25;Female;Single;Student;No Income;Post Graduate;3;23.05.9767;77.6593;560017;Yes;Positive;Yes;;;;;;;;;;;;;23.05.9767
+24;Male;Single;Employee;Below Rs.10000;Graduate;2;24.05.9767;77.6593;560017;Yes;Positive;Yes;;;;;;;;;;;;;24.05.9767
+23;Female;Single;Employee;10001 to 25000;Graduate;6;25.05.9767;77.6593;560017;Yes;Positive;Yes;;;;;;;;;;;;;25.05.9767
+22;Male;Single;Student;No Income;Graduate;2;26.05.9767;77.5637;560018;No;Positive;No;;;;;;;;;;;;;26.05.9767
+26;Male;Married;Self Employeed;More than 50000;Post Graduate;3;27.05.9767;77.5637;560018;No;Negative ;No;;;;;;;;;;;;;27.05.9767
+26;Male;Single;Employee;Below Rs.10000;Post Graduate;1;28.05.9767;77.5637;560018;Yes;Negative ;Yes;;;;;;;;;;;;;28.05.9767
+25;Female;Married;Self Employeed;25001 to 50000;Post Graduate;3;29.05.9767;77.5637;560018;No;Positive;No;;;;;;;;;;;;;29.05.9767
+29;Female;Married;Employee;More than 50000;Graduate;3;30.05.9767;77.5637;560018;No;Positive;No;;;;;;;;;;;;;30.05.9767
+23;Male;Single;Student;Below Rs.10000;Graduate;3;31.05.9767;77.524;560109;Yes;Negative ;Yes;;;;;;;;;;;;;31.05.9767
+22;Female;Single;Employee;25001 to 50000;Graduate;4;01.06.9767;77.75;560066;Yes;Positive;Yes;;;;;;;;;;;;;01.06.9767
+22;Male;Single;Student;No Income;Graduate;2;02.06.9767;77.5741;560020;No;Positive;No;;;;;;;;;;;;;02.06.9767
+32;Female;Married;House wife;No Income;School;5;03.06.9767;77.5741;560020;Yes;Positive;Yes;;;;;;;;;;;;;03.06.9767
+28;Male;Married;Employee;More than 50000;Post Graduate;1;04.06.9767;77.5633;560021;Yes;Positive;Yes;;;;;;;;;;;;;04.06.9767
+22;Male;Single;Student;No Income;Post Graduate;2;05.06.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;05.06.9767
+25;Male;Single;Employee;10001 to 25000;Graduate;2;06.06.9767;77.5586;560023;Yes;Positive;Yes;;;;;;;;;;;;;06.06.9767
+26;Female;Married;Employee;25001 to 50000;Post Graduate;2;07.06.9767;77.5586;560023;No;Negative ;No;;;;;;;;;;;;;07.06.9767
+31;Male;Married;Self Employeed;More than 50000;School;6;08.06.9767;77.5923;560024;Yes;Positive;Yes;;;;;;;;;;;;;08.06.9767
+24;Male;Single;Student;No Income;Post Graduate;3;09.06.9767;77.5923;560024;No;Negative ;No;;;;;;;;;;;;;09.06.9767
+24;Male;Single;Employee;25001 to 50000;Post Graduate;2;10.06.9767;77.6068;560025;Yes;Positive;Yes;;;;;;;;;;;;;10.06.9767
+31;Female;Married;Employee;More than 50000;Ph.D;5;11.06.9767;77.6068;560025;Yes;Positive;Yes;;;;;;;;;;;;;11.06.9767
+26;Male;Single;Employee;25001 to 50000;Graduate;2;12.06.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;12.06.9767
+24;Female;Married;Self Employeed;More than 50000;Graduate;2;13.06.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;13.06.9767
+22;Female;Single;Student;No Income;Graduate;3;14.06.9767;77.6044;560029;Yes;Positive;Yes;;;;;;;;;;;;;14.06.9767
+19;Male;Single;Student;No Income;Graduate;6;15.06.9767;77.6076;560030;Yes;Positive;Yes;;;;;;;;;;;;;15.06.9767
+25;Male;Married;Employee;More than 50000;Post Graduate;6;16.06.9767;77.6076;560030;Yes;Positive;Yes;;;;;;;;;;;;;16.06.9767
+23;Female;Married;House wife;No Income;School;6;17.06.9767;77.6076;560030;Yes;Positive;Yes;;;;;;;;;;;;;17.06.9767
+23;Female;Single;Student;No Income;Graduate;2;18.06.9767;77.6047;560032;No;Negative ;No;;;;;;;;;;;;;18.06.9767
+23;Male;Single;Student;No Income;Post Graduate;2;19.06.9767;77.6221;560034;Yes;Positive;Yes;;;;;;;;;;;;;19.06.9767
+24;Male;Single;Student;No Income;Post Graduate;5;20.06.9767;77.5376;560104;Yes;Positive;Yes;;;;;;;;;;;;;20.06.9767
+22;Female;Single;Employee;25001 to 50000;Graduate;4;21.06.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;21.06.9767
+26;Male;Married;Employee;More than 50000;Graduate;4;22.06.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;22.06.9767
+25;Female;Single;Student;No Income;Ph.D;3;23.06.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;23.06.9767
+20;Male;Single;Student;No Income;Graduate;2;24.06.9767;77.6221;560034;Yes;Positive;Yes;;;;;;;;;;;;;24.06.9767
+29;Male;Married;Employee;25001 to 50000;Graduate;4;25.06.9767;77.6221;560034;No;Negative ;No;;;;;;;;;;;;;25.06.9767
+23;Female;Single;Student;No Income;Graduate;1;26.06.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;26.06.9767
+25;Male;Single;Self Employeed;More than 50000;Graduate;2;27.06.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;27.06.9767
+29;Female;Married;Employee;25001 to 50000;Graduate;4;28.06.9767;77.6408;560038;No;Negative ;No;;;;;;;;;;;;;28.06.9767
+27;Male;Married;Self Employeed;25001 to 50000;Graduate;6;29.06.9767;77.5936;560041;No;Negative ;No;;;;;;;;;;;;;29.06.9767
+25;Male;Single;Self Employeed;10001 to 25000;Graduate;3;30.06.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;30.06.9767
+21;Male;Single;Student;No Income;Graduate;2;01.07.9767;77.5995;560046;No;Negative ;No;;;;;;;;;;;;;01.07.9767
+23;Male;Single;Student;No Income;Graduate;3;02.07.9767;77.7132;560049;Yes;Positive;Yes;;;;;;;;;;;;;02.07.9767
+24;Female;Single;Employee;10001 to 25000;Post Graduate;4;03.07.9767;77.59;560011;Yes;Positive;Yes;;;;;;;;;;;;;03.07.9767
+32;Male;Married;Self Employeed;10001 to 25000;School;3;04.07.9767;77.6256;560008;Yes;Negative ;Yes;;;;;;;;;;;;;04.07.9767
+28;Male;Married;Employee;25001 to 50000;Post Graduate;5;05.07.9767;77.62;560045;Yes;Positive;Yes;;;;;;;;;;;;;05.07.9767
+26;Male;Single;Employee;10001 to 25000;Graduate;2;06.07.9767;77.5936;560041;No;Negative ;No;;;;;;;;;;;;;06.07.9767
+31;Female;Married;House wife;No Income;Graduate;5;07.07.9767;77.5577;560055;Yes;Positive;Yes;;;;;;;;;;;;;07.07.9767
+27;Female;Married;Self Employeed;25001 to 50000;Graduate;3;08.07.9767;77.5577;560055;Yes;Positive;Yes;;;;;;;;;;;;;08.07.9767
+21;Female;Single;Student;No Income;Post Graduate;1;09.07.9767;77.5936;560041;Yes;Positive;Yes;;;;;;;;;;;;;09.07.9767
+23;Female;Single;Student;No Income;Graduate;2;10.07.9767;77.4842;560060;No;Positive;No;;;;;;;;;;;;;10.07.9767
+26;Male;Married;Employee;10001 to 25000;Graduate;4;11.07.9767;77.4842;560060;No;Positive;No;;;;;;;;;;;;;11.07.9767
+32;Male;Married;Employee;More than 50000;Graduate;5;12.07.9767;77.5376;560061;Yes;Positive;Yes;;;;;;;;;;;;;12.07.9767
+25;Female;Married;Student;No Income;Post Graduate;2;13.07.9767;77.5486;560062;Yes;Positive;Yes;;;;;;;;;;;;;13.07.9767
+28;Male;Single;Self Employeed;10001 to 25000;Post Graduate;2;14.07.9767;77.5635;560070;Yes;Positive;Yes;;;;;;;;;;;;;14.07.9767
+21;Female;Single;Student;No Income;Post Graduate;3;15.07.9767;77.5635;560070;Yes;Positive;Yes;;;;;;;;;;;;;15.07.9767
+24;Male;Single;Student;No Income;Post Graduate;2;16.07.9767;77.6529;560075;Yes;Positive;Yes;;;;;;;;;;;;;16.07.9767
+26;Female;Married;Self Employeed;10001 to 25000;Graduate;5;17.07.9767;77.6529;560075;No;Negative ;No;;;;;;;;;;;;;17.07.9767
+32;Male;Married;Employee;25001 to 50000;Graduate;3;18.07.9767;77.6529;560075;Yes;Positive;Yes;;;;;;;;;;;;;18.07.9767
+29;Male;Single;Self Employeed;More than 50000;Graduate;6;19.07.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;19.07.9767
+21;Male;Single;Student;No Income;Graduate;5;20.07.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;20.07.9767
+24;Female;Single;Self Employeed;25001 to 50000;Post Graduate;3;21.07.9767;77.5796;560080;No;Negative ;No;;;;;;;;;;;;;21.07.9767
+26;Male;Prefer not to say;Self Employeed;More than 50000;Post Graduate;2;22.07.9767;77.5796;560080;Yes;Positive;Yes;;;;;;;;;;;;;22.07.9767
+25;Male;Married;Employee;More than 50000;Ph.D;3;23.07.9767;77.5434;560085;Yes;Positive;Yes;;;;;;;;;;;;;23.07.9767
+29;Male;Single;Employee;25001 to 50000;Graduate;3;24.07.9767;77.5931;560092;No;Negative ;No;;;;;;;;;;;;;24.07.9767
+22;Male;Single;Student;No Income;Graduate;3;25.07.9767;77.539;560096;Yes;Positive;Yes;;;;;;;;;;;;;25.07.9767
+24;Male;Single;Student;No Income;Graduate;2;26.07.9767;77.5921;560027;Yes;Positive;Yes;;;;;;;;;;;;;26.07.9767
+27;Male;Married;Employee;25001 to 50000;Graduate;2;27.07.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;27.07.9767
+23;Female;Single;Student;No Income;Post Graduate;3;28.07.9767;77.6407;560095;No;Positive;No;;;;;;;;;;;;;28.07.9767
+32;Male;Married;Employee;More than 50000;Post Graduate;6;29.07.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;29.07.9767
+22;Female;Single;Student;No Income;Graduate;2;30.07.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;30.07.9767
+28;Male;Married;Employee;25001 to 50000;Graduate;3;31.07.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;31.07.9767
+23;Female;Single;Student;No Income;Post Graduate;2;01.08.9767;77.539;560096;Yes;Positive;Yes;;;;;;;;;;;;;01.08.9767
+30;Male;Married;Self Employeed;More than 50000;Graduate;1;02.08.9767;77.5565;560097;No;Negative ;No;;;;;;;;;;;;;02.08.9767
+21;Male;Single;Student;No Income;Graduate;3;03.08.9767;77.5931;560092;Yes;Positive;Yes;;;;;;;;;;;;;03.08.9767
+26;Female;Married;Employee;Below Rs.10000;Graduate;6;04.08.9767;77.6713;560093;No;Negative ;No;;;;;;;;;;;;;04.08.9767
+25;Male;Single;Self Employeed;More than 50000;School;3;05.08.9767;77.6713;560093;Yes;Positive;Yes;;;;;;;;;;;;;05.08.9767
+31;Male;Prefer not to say;Employee;Below Rs.10000;Graduate;1;06.08.9767;77.4904;560091;No;Negative ;No;;;;;;;;;;;;;06.08.9767
+23;Female;Single;Employee;25001 to 50000;Post Graduate;2;07.08.9767;77.5491;560100;Yes;Positive;Yes;;;;;;;;;;;;;07.08.9767
+29;Female;Married;Employee;25001 to 50000;Ph.D;3;08.08.9767;77.5491;560100;Yes;Positive;Yes;;;;;;;;;;;;;08.08.9767
+21;Male;Single;Student;No Income;Graduate;6;09.08.9767;77.5491;560100;Yes;Positive;Yes;;;;;;;;;;;;;09.08.9767
+20;Male;Single;Student;No Income;Graduate;3;10.08.9767;77.6848;560103;Yes;Positive;Yes;;;;;;;;;;;;;10.08.9767
+22;Male;Single;Employee;10001 to 25000;Graduate;2;11.08.9767;77.6848;560103;Yes;Positive;Yes;;;;;;;;;;;;;11.08.9767
+30;Female;Married;House wife;No Income;School;6;12.08.9767;77.6131;560042;No;Positive;No;;;;;;;;;;;;;12.08.9767
+27;Male;Married;Self Employeed;More than 50000;Graduate;3;13.08.9767;77.5332;560079;Yes;Positive;Yes;;;;;;;;;;;;;13.08.9767
+23;Male;Single;Student;No Income;Post Graduate;2;14.08.9767;77.5773;560009;No;Negative ;No;;;;;;;;;;;;;14.08.9767
+30;Male;Married;Self Employeed;25001 to 50000;School;6;15.08.9767;77.4992;560059;No;Negative ;No;;;;;;;;;;;;;15.08.9767
+23;Male;Single;Student;No Income;Post Graduate;3;16.08.9767;77.7582;560067;Yes;Positive;Yes;;;;;;;;;;;;;16.08.9767
+28;Female;Married;Employee;25001 to 50000;Post Graduate;6;17.08.9767;77.7582;560067;No;Negative ;No;;;;;;;;;;;;;17.08.9767
+30;Male;Married;Self Employeed;More than 50000;Graduate;6;18.08.9767;77.7582;560067;Yes;Positive;Yes;;;;;;;;;;;;;18.08.9767
+24;Female;Married;Employee;25001 to 50000;Post Graduate;2;19.08.9767;77.5637;560018;Yes;Negative ;Yes;;;;;;;;;;;;;19.08.9767
+21;Male;Single;Student;No Income;Graduate;2;20.08.9767;77.5637;560018;No;Negative ;No;;;;;;;;;;;;;20.08.9767
+23;Female;Prefer not to say;Employee;10001 to 25000;Graduate;3;21.08.9767;77.5741;560020;No;Negative ;No;;;;;;;;;;;;;21.08.9767
+25;Male;Married;Self Employeed;More than 50000;Post Graduate;4;22.08.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;22.08.9767
+24;Female;Single;Employee;25001 to 50000;Graduate;2;23.08.9767;77.6399;560068;Yes;Positive;Yes;;;;;;;;;;;;;23.08.9767
+26;Male;Married;Employee;10001 to 25000;Graduate;3;24.08.9767;77.6399;560068;No;Negative ;No;;;;;;;;;;;;;24.08.9767
+25;Female;Single;Employee;25001 to 50000;Post Graduate;2;25.08.9767;77.7582;560067;Yes;Positive;Yes;;;;;;;;;;;;;25.08.9767
+22;Male;Single;Student;25001 to 50000;Graduate;3;26.08.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;26.08.9767
+26;Female;Single;Employee;25001 to 50000;Post Graduate;2;27.08.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;27.08.9767
+23;Male;Single;Employee;10001 to 25000;Graduate;2;28.08.9767;77.5633;560021;Yes;Positive;Yes;;;;;;;;;;;;;28.08.9767
+21;Female;Single;Employee;Below Rs.10000;Graduate;2;29.08.9767;77.5633;560021;No;Negative ;No;;;;;;;;;;;;;29.08.9767
+25;Male;Married;Self Employeed;25001 to 50000;Graduate;3;30.08.9767;77.5921;560027;Yes;Positive;Yes;;;;;;;;;;;;;30.08.9767
+24;Female;Married;Employee;10001 to 25000;Post Graduate;2;31.08.9767;77.5921;560027;Yes;Positive;Yes;;;;;;;;;;;;;31.08.9767
+22;Male;Married;Student;No Income;Graduate;2;01.09.9767;77.5464;560014;Yes;Positive;Yes;;;;;;;;;;;;;01.09.9767
+23;Female;Single;Student;No Income;Post Graduate;4;02.09.9767;77.5923;560024;Yes;Positive;Yes;;;;;;;;;;;;;02.09.9767
+24;Male;Married;Employee;More than 50000;Post Graduate;3;03.09.9767;77.4921;560056;Yes;Positive;Yes;;;;;;;;;;;;;03.09.9767
+22;Female;Single;Student;No Income;Graduate;2;04.09.9767;77.4921;560056;Yes;Positive;Yes;;;;;;;;;;;;;04.09.9767
+30;Male;Married;Employee;More than 50000;Graduate;5;05.09.9767;77.5128;560072;No;Negative ;No;;;;;;;;;;;;;05.09.9767
+23;Female;Prefer not to say;Employee;10001 to 25000;Graduate;4;06.09.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;06.09.9767
+19;Male;Single;Student;No Income;Graduate;6;07.09.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;07.09.9767
+21;Female;Single;Student;No Income;Graduate;2;08.09.9767;77.5796;560080;Yes;Positive;Yes;;;;;;;;;;;;;08.09.9767
+23;Male;Single;Student;No Income;Graduate;4;09.09.9767;77.5796;560080;Yes;Positive;Yes;;;;;;;;;;;;;09.09.9767
+24;Female;Single;Employee;25001 to 50000;Graduate;3;10.09.9767;77.6399;560068;Yes;Positive;Yes;;;;;;;;;;;;;10.09.9767
+26;Female;Married;Employee;10001 to 25000;Post Graduate;2;11.09.9767;77.6131;560042;No;Positive;No;;;;;;;;;;;;;11.09.9767
+26;Female;Single;Student;No Income;Ph.D;2;12.09.9767;77.5586;560023;Yes;Positive;Yes;;;;;;;;;;;;;12.09.9767
+25;Female;Single;Student;10001 to 25000;Graduate;2;13.09.9767;77.5586;560023;Yes;Positive;Yes;;;;;;;;;;;;;13.09.9767
+28;Female;Married;Employee;25001 to 50000;Graduate;5;14.09.9767;77.5586;560023;No;Negative ;No;;;;;;;;;;;;;14.09.9767
+25;Female;Single;Student;No Income;Post Graduate;3;15.09.9767;77.5464;560014;Yes;Positive;Yes;;;;;;;;;;;;;15.09.9767
+20;Female;Single;Student;No Income;Graduate;2;16.09.9767;77.5464;560014;Yes;Positive;Yes;;;;;;;;;;;;;16.09.9767
+27;Female;Married;Self Employeed;More than 50000;Graduate;6;17.09.9767;77.5464;560014;No;Positive;No;;;;;;;;;;;;;17.09.9767
+25;Female;Married;Employee;25001 to 50000;Graduate;3;18.09.9767;77.5284;560015;No;Positive;No;;;;;;;;;;;;;18.09.9767
+24;Female;Single;Student;No Income;Post Graduate;5;19.09.9767;77.5284;560015;No;Negative ;No;;;;;;;;;;;;;19.09.9767
+25;Female;Married;Employee;More than 50000;Graduate;1;20.09.9767;77.5773;560009;No;Negative ;No;;;;;;;;;;;;;20.09.9767
+25;Female;Prefer not to say;Employee;25001 to 50000;Post Graduate;3;21.09.9767;77.6227;560005;No;Negative ;No;;;;;;;;;;;;;21.09.9767
+24;Female;Married;Student;Below Rs.10000;Ph.D;5;22.09.9767;77.5284;560015;Yes;Positive;Yes;;;;;;;;;;;;;22.09.9767
+24;Male;Single;Student;No Income;Post Graduate;3;23.09.9767;77.5284;560015;Yes;Positive;Yes;;;;;;;;;;;;;23.09.9767
+22;Male;Single;Employee;10001 to 25000;Graduate;1;24.09.9767;77.5877;560006;Yes;Positive;Yes;;;;;;;;;;;;;24.09.9767
+28;Male;Single;Employee;25001 to 50000;Post Graduate;2;25.09.9767;77.5877;560006;No;Negative ;No;;;;;;;;;;;;;25.09.9767
+25;Female;Single;Employee;More than 50000;Post Graduate;6;26.09.9767;77.5658;560012;No;Negative ;No;;;;;;;;;;;;;26.09.9767
+22;Male;Single;Student;Below Rs.10000;Post Graduate;3;27.09.9767;77.6593;560017;Yes;Negative ;Yes;;;;;;;;;;;;;27.09.9767
+22;Female;Single;Student;No Income;Graduate;6;28.09.9767;77.5616;560019;Yes;Positive;Yes;;;;;;;;;;;;;28.09.9767
+22;Male;Single;Student;Below Rs.10000;Post Graduate;4;29.09.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;29.09.9767
+27;Female;Married;Employee;More than 50000;Post Graduate;2;30.09.9767;77.6848;560103;Yes;Positive;Yes;;;;;;;;;;;;;30.09.9767
+22;Male;Single;Student;No Income;Graduate;3;01.10.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;01.10.9767
+24;Female;Single;Student;No Income;Post Graduate;3;02.10.9767;77.6131;560042;Yes;Positive;Yes;;;;;;;;;;;;;02.10.9767
+23;Female;Single;Student;No Income;Post Graduate;2;03.10.9767;77.5993;560001;Yes;Positive;Yes;;;;;;;;;;;;;03.10.9767
+23;Female;Single;Student;No Income;Post Graduate;4;04.10.9767;77.7081;560048;Yes;Positive;Yes;;;;;;;;;;;;;04.10.9767
+22;Female;Single;Student;No Income;Post Graduate;5;05.10.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;05.10.9767
+23;Male;Single;Student;Below Rs.10000;Post Graduate;2;06.10.9767;77.5773;560009;Yes;Negative ;Yes;;;;;;;;;;;;;06.10.9767
+32;Male;Married;Employee;More than 50000;Graduate;5;07.10.9767;77.5376;560061;Yes;Positive;Yes;;;;;;;;;;;;;07.10.9767
+25;Female;Married;Student;No Income;Post Graduate;2;08.10.9767;77.5486;560062;Yes;Positive;Yes;;;;;;;;;;;;;08.10.9767
+28;Male;Single;Self Employeed;10001 to 25000;Post Graduate;2;09.10.9767;77.5635;560070;Yes;Positive;Yes;;;;;;;;;;;;;09.10.9767
+21;Female;Single;Student;No Income;Post Graduate;3;10.10.9767;77.5635;560070;Yes;Positive;Yes;;;;;;;;;;;;;10.10.9767
+24;Male;Single;Student;No Income;Post Graduate;2;11.10.9767;77.6529;560075;Yes;Positive;Yes;;;;;;;;;;;;;11.10.9767
+26;Female;Married;Self Employeed;10001 to 25000;Graduate;5;12.10.9767;77.6529;560075;No;Negative ;No;;;;;;;;;;;;;12.10.9767
+32;Male;Married;Employee;25001 to 50000;Graduate;3;13.10.9767;77.6529;560075;Yes;Positive;Yes;;;;;;;;;;;;;13.10.9767
+29;Male;Single;Self Employeed;More than 50000;Graduate;6;14.10.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;14.10.9767
+21;Male;Single;Student;No Income;Graduate;5;15.10.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;15.10.9767
+24;Female;Single;Self Employeed;25001 to 50000;Post Graduate;3;16.10.9767;77.5796;560080;No;Negative ;No;;;;;;;;;;;;;16.10.9767
+26;Male;Prefer not to say;Self Employeed;More than 50000;Post Graduate;2;17.10.9767;77.5796;560080;Yes;Positive;Yes;;;;;;;;;;;;;17.10.9767
+21;Male;Married;Employee;More than 50000;Ph.D;3;18.10.9767;77.5434;560085;Yes;Positive;Yes;;;;;;;;;;;;;18.10.9767
+29;Male;Single;Employee;25001 to 50000;Graduate;3;19.10.9767;77.5931;560092;No;Negative ;No;;;;;;;;;;;;;19.10.9767
+22;Male;Single;Student;No Income;Graduate;3;20.10.9767;77.539;560096;Yes;Positive;Yes;;;;;;;;;;;;;20.10.9767
+24;Male;Single;Student;No Income;Graduate;2;21.10.9767;77.5921;560027;Yes;Positive;Yes;;;;;;;;;;;;;21.10.9767
+27;Male;Married;Employee;25001 to 50000;Graduate;2;22.10.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;22.10.9767
+23;Female;Single;Student;No Income;Post Graduate;3;23.10.9767;77.6407;560095;No;Positive;No;;;;;;;;;;;;;23.10.9767
+32;Male;Married;Employee;More than 50000;Post Graduate;6;24.10.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;24.10.9767
+22;Female;Single;Student;No Income;Graduate;2;25.10.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;25.10.9767
+22;Female;Single;Employee;25001 to 50000;Graduate;4;26.10.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;26.10.9767
+26;Male;Married;Employee;More than 50000;Graduate;4;27.10.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;27.10.9767
+25;Female;Single;Student;No Income;Ph.D;3;28.10.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;28.10.9767
+20;Male;Single;Student;No Income;Graduate;2;29.10.9767;77.6221;560034;Yes;Positive;Yes;;;;;;;;;;;;;29.10.9767
+29;Male;Married;Employee;25001 to 50000;Graduate;4;30.10.9767;77.6221;560034;No;Negative ;No;;;;;;;;;;;;;30.10.9767
+23;Female;Single;Student;No Income;Graduate;1;31.10.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;31.10.9767
+25;Male;Single;Self Employeed;More than 50000;Graduate;2;01.11.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;01.11.9767
+29;Female;Married;Employee;25001 to 50000;Graduate;4;02.11.9767;77.6408;560038;No;Negative ;No;;;;;;;;;;;;;02.11.9767
+27;Male;Married;Self Employeed;25001 to 50000;Graduate;6;03.11.9767;77.5936;560041;No;Positive;No;;;;;;;;;;;;;03.11.9767
+25;Male;Single;Self Employeed;10001 to 25000;Graduate;3;04.11.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;04.11.9767
+21;Male;Single;Student;No Income;Graduate;2;05.11.9767;77.5995;560046;No;Negative ;No;;;;;;;;;;;;;05.11.9767
+23;Male;Single;Student;No Income;Graduate;3;06.11.9767;77.7132;560049;Yes;Positive;Yes;;;;;;;;;;;;;06.11.9767
+24;Female;Single;Employee;10001 to 25000;Post Graduate;4;07.11.9767;77.59;560011;Yes;Positive;Yes;;;;;;;;;;;;;07.11.9767
+22;Male;Married;Self Employeed;10001 to 25000;School;3;08.11.9767;77.6256;560008;Yes;Negative ;Yes;;;;;;;;;;;;;08.11.9767
+28;Male;Married;Employee;25001 to 50000;Post Graduate;5;09.11.9767;77.62;560045;Yes;Positive;Yes;;;;;;;;;;;;;09.11.9767
+26;Male;Single;Employee;10001 to 25000;Graduate;2;10.11.9767;77.5936;560041;No;Negative ;No;;;;;;;;;;;;;10.11.9767
+22;Female;Single;Employee;25001 to 50000;Graduate;4;11.11.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;11.11.9767
+26;Male;Married;Employee;More than 50000;Graduate;4;12.11.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;12.11.9767
+25;Female;Single;Student;No Income;Ph.D;3;13.11.9767;77.6821;560036;Yes;Positive;Yes;;;;;;;;;;;;;13.11.9767
+20;Male;Single;Student;No Income;Graduate;2;14.11.9767;77.6221;560034;Yes;Positive;Yes;;;;;;;;;;;;;14.11.9767
+29;Male;Married;Employee;25001 to 50000;Graduate;4;15.11.9767;77.6221;560034;No;Negative ;No;;;;;;;;;;;;;15.11.9767
+23;Female;Single;Student;No Income;Graduate;1;16.11.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;16.11.9767
+25;Male;Single;Self Employeed;More than 50000;Graduate;2;17.11.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;17.11.9767
+29;Female;Married;Employee;25001 to 50000;Graduate;4;18.11.9767;77.6408;560038;No;Positive;No;;;;;;;;;;;;;18.11.9767
+27;Male;Married;Self Employeed;25001 to 50000;Graduate;6;19.11.9767;77.5936;560041;No;Positive;No;;;;;;;;;;;;;19.11.9767
+25;Male;Single;Self Employeed;10001 to 25000;Graduate;3;20.11.9767;77.6479;560043;Yes;Positive;Yes;;;;;;;;;;;;;20.11.9767
+21;Male;Single;Student;No Income;Graduate;2;21.11.9767;77.5995;560046;No;Positive;No;;;;;;;;;;;;;21.11.9767
+24;Male;Single;Student;No Income;Post Graduate;2;22.11.9767;77.6529;560075;Yes;Positive;Yes;;;;;;;;;;;;;22.11.9767
+26;Female;Married;Self Employeed;10001 to 25000;Graduate;5;23.11.9767;77.6529;560075;No;Negative ;No;;;;;;;;;;;;;23.11.9767
+32;Male;Married;Employee;25001 to 50000;Graduate;3;24.11.9767;77.6529;560075;Yes;Positive;Yes;;;;;;;;;;;;;24.11.9767
+29;Male;Single;Self Employeed;More than 50000;Graduate;6;25.11.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;25.11.9767
+21;Male;Single;Student;No Income;Graduate;5;26.11.9767;77.6408;560038;Yes;Positive;Yes;;;;;;;;;;;;;26.11.9767
+24;Female;Single;Self Employeed;25001 to 50000;Post Graduate;3;27.11.9767;77.5796;560080;No;Negative ;No;;;;;;;;;;;;;27.11.9767
+26;Male;Prefer not to say;Self Employeed;More than 50000;Post Graduate;2;28.11.9767;77.5796;560080;Yes;Positive;Yes;;;;;;;;;;;;;28.11.9767
+31;Male;Married;Employee;More than 50000;Ph.D;3;29.11.9767;77.5434;560085;Yes;Positive;Yes;;;;;;;;;;;;;29.11.9767
+29;Male;Single;Employee;25001 to 50000;Graduate;3;30.11.9767;77.5931;560092;No;Negative ;No;;;;;;;;;;;;;30.11.9767
+22;Male;Single;Student;No Income;Graduate;3;01.12.9767;77.539;560096;Yes;Positive;Yes;;;;;;;;;;;;;01.12.9767
+24;Male;Single;Student;No Income;Graduate;2;02.12.9767;77.5921;560027;Yes;Positive;Yes;;;;;;;;;;;;;02.12.9767
+27;Male;Married;Employee;25001 to 50000;Graduate;2;03.12.9767;77.6036;560076;Yes;Positive;Yes;;;;;;;;;;;;;03.12.9767
+23;Female;Single;Student;No Income;Post Graduate;3;04.12.9767;77.6407;560095;No;Positive;No;;;;;;;;;;;;;04.12.9767
+30;Male;Married;Employee;More than 50000;Post Graduate;6;05.12.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;05.12.9767
+22;Female;Single;Student;No Income;Graduate;2;06.12.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;06.12.9767
+28;Male;Married;Employee;25001 to 50000;Graduate;3;07.12.9767;77.6407;560095;Yes;Positive;Yes;;;;;;;;;;;;;07.12.9767
+23;Female;Single;Student;No Income;Post Graduate;2;08.12.9767;77.539;560096;Yes;Positive;Yes;;;;;;;;;;;;;08.12.9767
+30;Male;Married;Self Employeed;More than 50000;Graduate;1;09.12.9767;77.5565;560097;No;Negative ;No;;;;;;;;;;;;;09.12.9767
+21;Male;Single;Student;No Income;Graduate;3;10.12.9767;77.5931;560092;Yes;Negative ;Yes;;;;;;;;;;;;;10.12.9767
+26;Female;Married;Employee;Below Rs.10000;Graduate;6;11.12.9767;77.6713;560093;No;Negative ;No;;;;;;;;;;;;;11.12.9767
+25;Male;Single;Self Employeed;More than 50000;School;3;12.12.9767;77.6713;560093;Yes;Positive;Yes;;;;;;;;;;;;;12.12.9767
+31;Male;Prefer not to say;Employee;Below Rs.10000;Graduate;1;13.12.9767;77.4904;560091;No;Negative ;No;;;;;;;;;;;;;13.12.9767
+23;Female;Single;Employee;25001 to 50000;Post Graduate;2;14.12.9767;77.5491;560100;Yes;Positive;Yes;;;;;;;;;;;;;14.12.9767
+22;Male;Single;Student;Below Rs.10000;Post Graduate;4;15.12.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;15.12.9767
+27;Female;Married;Employee;More than 50000;Post Graduate;2;16.12.9767;77.6848;560103;Yes;Positive;Yes;;;;;;;;;;;;;16.12.9767
+22;Male;Single;Student;No Income;Graduate;3;17.12.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;17.12.9767
+24;Female;Single;Student;No Income;Post Graduate;3;18.12.9767;77.6131;560042;Yes;Positive;Yes;;;;;;;;;;;;;18.12.9767
+23;Female;Single;Student;No Income;Post Graduate;2;19.12.9767;77.5993;560001;Yes;Positive;Yes;;;;;;;;;;;;;19.12.9767
+23;Female;Single;Student;No Income;Post Graduate;4;20.12.9767;77.7081;560048;Yes;Positive;Yes;;;;;;;;;;;;;20.12.9767
+22;Female;Single;Student;No Income;Post Graduate;5;21.12.9767;77.5533;560010;Yes;Positive;Yes;;;;;;;;;;;;;21.12.9767
+23;Male;Single;Student;Below Rs.10000;Post Graduate;2;22.12.9767;77.5773;560009;Yes;Positive;Yes;;;;;;;;;;;;;22.12.9767
+23;Male;Single;Student;No Income;Post Graduate;5;23.12.9767;77.5764;560078;Yes;Positive;Yes;;;;;;;;;;;;;23.12.9767
